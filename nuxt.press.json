@@ -1,0 +1,19 @@
+{
+  "docs": {
+    "dir": "",
+    "prefix": "/",
+    "title": "Mi blog",
+    "search": true,
+    "nav": [
+      {
+        "Home": "/"
+      },
+      {
+        "Blog": "/blog"
+      },
+      {
+        "Slides": "/slides"
+      }
+    ]
+  }
+}
