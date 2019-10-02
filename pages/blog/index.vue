@@ -1,5 +1,11 @@
 <template>
   <v-layout row wrap>  
-    Soy index de Blog
+    Soy index de Blog !!!
   </v-layout>
-  </template>
+</template>
+
+<script>
+export default {
+  layout: 'dark',
+}
+</script>
